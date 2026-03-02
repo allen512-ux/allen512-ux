@@ -65,9 +65,9 @@ High-stakes interview simulator with precision feedback UI.
 ## 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://www.allensajan.com"><img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+  <a href="https://www.figma.com/proto/y2k3pLcUBd2GS80u46iF6F/Portfolio-Presentation?page-id=0%3A1&node-id=1-57273&viewport=137%2C26%2C0.13&t=vDIdHxfk2rR3czPg-1&scaling=contain&content-scaling=fixed&starting-point-node-id=1%3A57273"><img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
   <a href="mailto:allensajan17@gmail.com"><img src="https://img.shields.io/badge/Email-111827?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/YOUR_LINK/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/allen-s-sajan-bb45b0291/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </p>
 
 ---
