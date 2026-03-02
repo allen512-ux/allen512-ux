@@ -103,5 +103,5 @@ High-stakes training platform with precision feedback UI and structured UX flow.
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=0:111827,100:0A0F1C"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=111827"/>
 </p>
