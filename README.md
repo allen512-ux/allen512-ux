@@ -52,7 +52,11 @@ I approach every project as a scalable product, not just a visual layout.
 
 ### Design Systems
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=figma,framer,ai,ps&perline=4" />
+  <img src="https://skillicons.dev/icons?i=figma,ai,ps&perline=3" />
+</p>
+
+<p align="center">
+  <img src="https://cdn.simpleicons.org/framer/ffffff" height="40"/>
 </p>
 
 ---
@@ -102,6 +106,4 @@ High-stakes training platform with precision feedback UI and structured UX flow.
   <i>Built with intention. Designed with structure. Engineered for scale.</i>
 </p>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=111827"/>
-</p>
+
