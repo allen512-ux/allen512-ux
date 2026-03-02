@@ -1,77 +1,119 @@
-<!-- Animated Header -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:1e293b&height=200&section=header&text=Allen%20S%20Sajan&fontSize=40&fontColor=ffffff&animation=fadeIn" />
-</p>
-
-<h3 align="center">Frontend Developer • UI/UX Designer • System Thinker</h3>
+<!-- ================= HEADER ================= -->
 
 <p align="center">
-Designing structured digital experiences that combine aesthetic precision with technical performance.
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0B1220,100:1E293B&text=Allen%20S%20Sajan&fontColor=ffffff&fontSize=45&animation=fadeIn&desc=Frontend%20Developer%20%E2%80%A2%20UI/UX%20Designer%20%E2%80%A2%20System%20Architect&descSize=18&descAlignY=65"/>
 </p>
 
----
-
-## 🚀 About Me
-
-- 🎓 B.Tech in Computer Science  
-- 🎨 UI/UX Designer (Internship Experience)  
-- 💻 Frontend-focused Product Builder  
-- 🧠 SaaS Dashboard & System Designer  
-- ⚡ Focused on usability, performance & scalability  
-
----
-
-## 🛠 Tech Stack
-
-### 🎨 Design
-<p>
-  <img src="https://skillicons.dev/icons?i=figma,ai,ps,xd,framer" />
-</p>
-
-### 💻 Frontend
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,next,vue,bootstrap" />
-</p>
-
-### ⚙ Backend & Tools
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase,postman" />
-</p>
-
----
-
-## 📌 Featured Projects
-
-### 🔹 BSEA – Energy Intelligence Dashboard
-AI-powered monitoring interface with structured analytics UI.
-
-### 🔹 NeuroSpace – AI Focus Platform
-Dark-mode SaaS interface designed for cognitive clarity.
-
-### 🔹 InterviewAlly – Interview Simulation System
-High-stakes interview simulator with precision feedback UI.
-
----
-
-## 📊 GitHub Stats
+<h3 align="center">
+Designing Intelligent Interfaces. Engineering Scalable Frontends.
+</h3>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=github_dark&hide_border=true" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=github-dark&hide_border=true" />
+I build structured digital systems that combine aesthetic clarity with technical precision.<br>
+From UX strategy to production-ready frontend architecture.
 </p>
 
 ---
+
+<!-- ================= CORE IDENTITY ================= -->
+
+## ⚡ Core Identity
+
+```diff
++ System-Driven Thinker
++ SaaS Interface Specialist
++ Performance-Focused Builder
++ UI Precision + Frontend Logic
+```
+
+---
+
+<!-- ================= DESIGN STACK ================= -->
+
+## 🎨 Design Arsenal
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=figma,ai,ps,framer,xd&perline=6" />
+</p>
+
+---
+
+<!-- ================= FRONTEND STACK ================= -->
+
+## 💻 Frontend Architecture
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,next,vue,bootstrap&perline=7" />
+</p>
+
+---
+
+<!-- ================= BACKEND STACK ================= -->
+
+## ⚙ Backend & Infrastructure
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase,postman&perline=5" />
+</p>
+
+---
+
+<!-- ================= PROJECTS ================= -->
+
+## 🧩 Product Case Studies
+
+### 🔹 BSEA — Energy Intelligence Platform  
+Structured real-time analytics dashboard with system-first UI.
+
+### 🔹 NeuroSpace — AI Focus System  
+Dark-mode SaaS experience designed for cognitive performance.
+
+### 🔹 InterviewAlly — Interview Simulation Engine  
+High-stakes simulation interface with precision feedback loops.
+
+---
+
+<!-- ================= GITHUB STATS ================= -->
+
+## 📊 Engineering Activity
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=github_dark&hide_border=true&bg_color=0B1220" />
+  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=github-dark&hide_border=true&background=0B1220" />
+</p>
+
+---
+
+## 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=github-compact&hide_border=true&bg_color=0B1220" />
+</p>
+
+---
+
+<!-- ================= CONNECT ================= -->
 
 ## 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://www.figma.com/proto/y2k3pLcUBd2GS80u46iF6F/Portfolio-Presentation?page-id=0%3A1&node-id=1-57273&viewport=137%2C26%2C0.13&t=vDIdHxfk2rR3czPg-1&scaling=contain&content-scaling=fixed&starting-point-node-id=1%3A57273"><img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
-  <a href="mailto:allensajan17@gmail.com"><img src="https://img.shields.io/badge/Email-111827?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/allen-s-sajan-bb45b0291/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://www.allensajan.com">
+    <img src="https://img.shields.io/badge/Portfolio-0B1220?style=for-the-badge&logo=vercel&logoColor=white"/>
+  </a>
+  <a href="mailto:allensajan17@gmail.com">
+    <img src="https://img.shields.io/badge/Email-111827?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/YOUR_LINK/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
 </p>
 
 ---
 
 <p align="center">
-Building Interfaces That Think. Designing Systems That Scale.
+  <i>Clarity. Systems. Performance.</i>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&section=footer&color=0:0B1220,100:1E293B"/>
 </p>
