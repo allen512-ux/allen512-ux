@@ -1,104 +1,92 @@
-<!-- ================= HEADER ================= -->
+<!-- ================= CINEMATIC HEADER ================= -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0B1220,100:1E293B&text=Allen%20S%20Sajan&fontColor=ffffff&fontSize=45&animation=fadeIn&desc=Frontend%20Developer%20%E2%80%A2%20UI/UX%20Designer%20%E2%80%A2%20System%20Architect&descSize=18&descAlignY=65"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=280&color=0:0A0F1C,100:111827&text=Allen%20S%20Sajan&fontColor=ffffff&fontSize=48&animation=fadeIn&desc=Frontend%20Engineer%20%E2%80%A2%20UI/UX%20Designer%20%E2%80%A2%20Product%20Systems%20Builder&descSize=20&descAlignY=65"/>
 </p>
 
-<h3 align="center">
-Designing Intelligent Interfaces. Engineering Scalable Frontends.
-</h3>
+<p align="center">
+  <b>Designing Systems. Engineering Interfaces. Building Scalable Digital Products.</b>
+</p>
 
 <p align="center">
-I build structured digital systems that combine aesthetic clarity with technical precision.<br>
-From UX strategy to production-ready frontend architecture.
+I specialize in translating UX strategy into structured, production-ready frontend systems.<br>
+With a Computer Science foundation, I bridge visual intelligence and technical architecture.
 </p>
 
 ---
 
-<!-- ================= CORE IDENTITY ================= -->
-
-## ⚡ Core Identity
+## SYSTEM PHILOSOPHY
 
 ```diff
-+ System-Driven Thinker
-+ SaaS Interface Specialist
-+ Performance-Focused Builder
-+ UI Precision + Frontend Logic
++ Clarity over complexity
++ Systems over decoration
++ Performance over noise
++ Consistency over chaos
 ```
 
 ---
 
-<!-- ================= DESIGN STACK ================= -->
+## PRODUCT THINKING
 
-## 🎨 Design Arsenal
+I approach every project as a scalable product, not just a visual layout.
 
+• Defined component systems  
+• Structured spacing frameworks  
+• Data-driven interface logic  
+• UX aligned with engineering feasibility  
+• Clean developer handoff  
+
+---
+
+## TECHNICAL STACK
+
+### Interface Engineering
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=figma,ai,ps,framer,xd&perline=6" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,next,vue&perline=6" />
+</p>
+
+### Backend & Data
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase&perline=4" />
+</p>
+
+### Design Systems
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=figma,framer,ai,ps&perline=4" />
 </p>
 
 ---
 
-<!-- ================= FRONTEND STACK ================= -->
+## SELECTED WORK
 
-## 💻 Frontend Architecture
+### BSEA  
+Energy Intelligence Dashboard  
+Real-time analytics interface designed with system-first architecture.
+
+### NeuroSpace  
+AI Focus Platform  
+Dark-mode SaaS interface engineered for cognitive clarity and performance.
+
+### InterviewAlly  
+Interview Simulation System  
+High-stakes training platform with precision feedback UI and structured UX flow.
+
+---
+
+## ENGINEERING METRICS
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,next,vue,bootstrap&perline=7" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=github_dark&hide_border=true&bg_color=0A0F1C" />
+  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=github-dark&hide_border=true&background=0A0F1C" />
 </p>
 
 ---
 
-<!-- ================= BACKEND STACK ================= -->
-
-## ⚙ Backend & Infrastructure
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase,postman&perline=5" />
-</p>
-
----
-
-<!-- ================= PROJECTS ================= -->
-
-## 🧩 Product Case Studies
-
-### 🔹 BSEA — Energy Intelligence Platform  
-Structured real-time analytics dashboard with system-first UI.
-
-### 🔹 NeuroSpace — AI Focus System  
-Dark-mode SaaS experience designed for cognitive performance.
-
-### 🔹 InterviewAlly — Interview Simulation Engine  
-High-stakes simulation interface with precision feedback loops.
-
----
-
-<!-- ================= GITHUB STATS ================= -->
-
-## 📊 Engineering Activity
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=github_dark&hide_border=true&bg_color=0B1220" />
-  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=github-dark&hide_border=true&background=0B1220" />
-</p>
-
----
-
-## 📈 Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=github-compact&hide_border=true&bg_color=0B1220" />
-</p>
-
----
-
-<!-- ================= CONNECT ================= -->
-
-## 🌐 Connect With Me
+## CONNECT
 
 <p align="center">
   <a href="https://www.allensajan.com">
-    <img src="https://img.shields.io/badge/Portfolio-0B1220?style=for-the-badge&logo=vercel&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Portfolio-0A0F1C?style=for-the-badge&logo=vercel&logoColor=white"/>
   </a>
   <a href="mailto:allensajan17@gmail.com">
     <img src="https://img.shields.io/badge/Email-111827?style=for-the-badge&logo=gmail&logoColor=white"/>
@@ -111,9 +99,9 @@ High-stakes simulation interface with precision feedback loops.
 ---
 
 <p align="center">
-  <i>Clarity. Systems. Performance.</i>
+  <i>Built with intention. Designed with structure. Engineered for scale.</i>
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&section=footer&color=0:0B1220,100:1E293B"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&section=footer&height=120&color=0:111827,100:0A0F1C"/>
 </p>
