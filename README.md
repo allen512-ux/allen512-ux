@@ -85,13 +85,13 @@ High-stakes training platform with precision feedback UI and structured UX flow.
 ## CONNECT
 
 <p align="center">
-  <a href="https://www.allensajan.com">
+  <a href="https://www.figma.com/proto/y2k3pLcUBd2GS80u46iF6F/Portfolio-Presentation?page-id=0%3A1&node-id=1-57273&viewport=137%2C26%2C0.13&t=vDIdHxfk2rR3czPg-1&scaling=contain&content-scaling=fixed&starting-point-node-id=1%3A57273">
     <img src="https://img.shields.io/badge/Portfolio-0A0F1C?style=for-the-badge&logo=vercel&logoColor=white"/>
   </a>
   <a href="mailto:allensajan17@gmail.com">
     <img src="https://img.shields.io/badge/Email-111827?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://www.linkedin.com/in/YOUR_LINK/">
+  <a href="https://www.linkedin.com/in/allen-s-sajan-bb45b0291/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>
@@ -103,5 +103,5 @@ High-stakes training platform with precision feedback UI and structured UX flow.
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&section=footer&height=120&color=0:111827,100:0A0F1C"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=0:111827,100:0A0F1C"/>
 </p>
